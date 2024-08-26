@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨The only skill I have is <strong>Copy & Paste</strong>.<br>📚 I'm currently learning at FPT Polytechnic College.<br>🎯 Goals: Fullstack Developer.<br>🎲 Fun fact: Coding...!</p>
+<p align="left">✨The only skill I have is Copy & Paste.<br>📚 I'm currently learning at FPT Polytechnic College.<br>🎯 Goals: Fullstack Developer.<br>🎲 Fun fact: Coding...!</p>
 
 ###
 
@@ -65,9 +65,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/thaibaocoder1/thaibaocoder1/output/snake.svg" alt="Snake animation" />
 
 ###
