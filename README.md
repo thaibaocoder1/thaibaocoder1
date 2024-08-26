@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨The only skill I have is Copy & Paste.<br>📚 I'm currently learning at FPT Polytechnic College.<br>🎯 Goals: Fullstack Developer<br>🎲 Fun fact: Coding...!</p>
+<p align="left">✨The only skill I have is <strong>Copy & Paste</strong>.<br>📚 I'm currently learning at FPT Polytechnic College.<br>🎯 Goals: Fullstack Developer.<br>🎲 Fun fact: Coding...!</p>
 
 ###
 
