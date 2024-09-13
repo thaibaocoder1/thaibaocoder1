@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hoang Nguyen Thai Bao and I'm a Front-end Developer, from Viet Nam</p>
+<p align="left">My name is Hoang Nguyen Thai Bao. I'm a Front-end Developer, from Viet Nam</p>
 
 ###
 
